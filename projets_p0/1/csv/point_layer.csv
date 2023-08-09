@@ -1,0 +1,515 @@
+X,Y,Affectatio,Etat,Code Posta,Commune,Technologi,Cas CRE,Superficie,Zonage,Risques,ABF,HTA/BT (m),Commentair,A faire,NumÃ©ro,Mail,Next  Step,x,y,icon_url
+-0.892618454812196,43.4474830510281,PAL,AbandonnÃ©,"64499",SALIES-DE-BEARN,Sol,"3","5,84 ha",N,,,"200","ancienne decharge, contacter mairie pour connaitre plu ou si projet sur la zone",mail envoyÃ© pour plu,,,Oui,"-0.8926184548121957","43.44748305102806",./0.png
+0.173098421659064,43.501431731329,PAL,En cours,"32230",Ricourt,Sol,"2","4,00 ha",NPV,,,,,,,,,"0.1730984216590642","43.501431731329035",./1.png
+1.83530649715212,43.5194678768098,PAL,En cours,"31026",Auriac sur Vendinelle,Agri PV,PPA,"1,10 ha",,,,,,,,,,"1.83530649715212","43.51946787680981",./1.png
+0.176739765001556,43.5207657284712,PAL,En cours,"32230",Marciac,FPV,"3","2,50 ha",,,,,,,,,,"0.17673976500155553","43.52076572847122",./1.png
+0.290166161808468,43.5532760358696,EPA,AbandonnÃ©,"32",Pouylebon (Custret),Sol,2 bis,"14,00 ha",ZnC,,Oui,12000m,"Seul 11ha utilisable car zone de patrimoine dans la parcelle, zone humide probable en bordure",,,,,"0.29016616180846827","43.55327603586963",./0.png
+0.294145836291979,43.5538472728595,EPA,AbandonnÃ©,"32",Pouylebon,Sol,2 bis,"9,00 ha",A,,Oui,12000 m,,,,,,"0.2941458362919792","43.55384727285954",./0.png
+0.115583990802011,43.5691430195873,EPA,AbandonnÃ©,"32",Beaumarches (Caminau),Sol,2 bis,"7,00 ha",A (amenÃ© Ã  Ã©voluer),,Non,7500 m,"Terrain incompatible, pentu, covisibilitÃ© et servitude moyenne tension",,,,,"0.11558399080201066","43.56914301958733",./0.png
+0.120367698709964,43.5715656500283,EPA,En cours,"32",Beaumarches (MourÃ©ou),Sol,2 bis,"10,00 ha",,,Non,4700m,FCS Ã  faire,Voegelin Franck,,,,"0.12036769870996382","43.57156565002833",./1.png
+-0.187467293950655,43.6108925505434,EPA,A lancer,"32",Aurensan,Sol,2 bis,"4,00 ha",,,Non,11000 m,,,,,,"-0.18746729395065467","43.61089255054341",./2.png
+0.376480092008484,43.6287103163556,EPA,En cours,"32",Mirannes,Sol,2 bis,"10,00 ha",A,,Non,14000 m,FCS faite,DubiÃ© ThÃ©rÃ¨se 10 RUE DU CHATEAU 65220 VILLEMBITS - personne dÃ©cÃ©dÃ© et famille introuvable - seul contact disponible numÃ©ro tel ou voir mairie,Â 05 62 33 22 97,,,"0.37648009200848426","43.62871031635555",./1.png
+-0.371320190232503,43.6404653564796,CLM,En cours,"40220",PECORADE,Sol,"3","1,90 ha",A,Aucun,Oui,200 m,"forage petrole, perimetre monument historique",contact mairie / demande de RP,,,,"-0.37132019023250334","43.64046535647964",./1.png
+-0.377066381902003,43.6454790067255,CLM,AbandonnÃ©,"40110",GEAUNE,Sol,"3","2,20 ha",1AU,Aucun,Oui,400 m,"forage petrole, perimetre monument historique mais encaissÃ© SERVITUDE GAZ NATUREL",appeler mairie,,,,"-0.37706638190200337","43.64547900672554",./0.png
+-0.372650596941198,43.6477351035863,CLM,AbandonnÃ©,"40220",PECORADE,Sol,"3","3,00 ha",A,Aucun,Non,400 m,zonage plu a changer /  SERVITUDE GAZ NATUREL,contacter proprio,,,,"-0.3726505969411979","43.64773510358634",./0.png
+-0.333318119765035,43.6528855580446,CLM,En cours,"40305",SORBETS,Sol,"3","1,50 ha",A,Aucun,,300 m,"forage petrole, zonage A donc PLU a changer",contact mairie / demande de RP,,,,"-0.33331811976503534","43.6528855580446",./1.png
+0.604000660376317,43.6722290539935,EPA,AbandonnÃ©,"32",Auch,Sol,2 bis,"22,00 ha",,,Non,,,,,,,"0.6040006603763171","43.672229053993505",./0.png
+0.065429341236388,43.6785742275833,EPA,A lancer,"32",Aignan,Sol,2 bis,"10,00 ha",A,,Non,13000 m,,"DOMAINE DE PIERRYS, Patrick Boutes",05Â 62Â 09Â 37Â 28,,,"0.06542934123638759","43.67857422758334",./2.png
+2.07445027546701,43.7194176384841,GBA,AbandonnÃ©,"81440",Brousse,Sol,,"3,5 ha",ZnC,,,,"Ancienne dÃ©charge d'OM, zone ZnC carte communale",PropriÃ©taire contactÃ© pas intÃ©ressÃ©,,,,"2.0744502754670058","43.71941763848406",./0.png
+-0.206442321515404,43.7203570457938,EPA,A lancer,"32",Vergoignan,Sol,2 bis,"11,00 ha",A,,Non,5700m,,,,,,"-0.2064423215154037","43.720357045793804",./2.png
+-0.206442321515404,43.7203570457938,EPA,A lancer,"32",SAINT-ORENS-POUY-PETIT (RouchÃ©),Sol,2 bis,"10.4",A,,Non,,,,,,,"-0.2064423215154037","43.720357045793804",./2.png
+-0.206442321515404,43.7203570457938,EPA,A lancer,"32",SAINT-ORENS-POUY-PETIT (Les comps),Sol,2 bis,"10.4",A,,Non,,,,,,,"-0.2064423215154037","43.720357045793804",./2.png
+0.267319788877455,43.7835013772414,EPA,AbandonnÃ©,"32",VIC-FEZENSAC (PÃ©deaubas),Sol,2 bis,"14,00 ha",,,Non,4700m,"Besoin en ombriÃ¨re trop insuffisant, contact intÃ©ressant car infos sur projets dans la commune, son fils possiblement intÃ©rressÃ©",,,,,"0.26731978887745506","43.78350137724141",./0.png
+0.196606011252188,43.8016516997577,EPA,En cours,"32",Ramouzens,Sol,2 bis,"15,00 ha",A,,Oui,11000m,"FCS faite, orchidÃ©e typique zone humide prÃ©sente",GFA De Nabidaux (dirigeant Gabriel PIEROTTI),,,,"0.19660601125218774","43.801651699757656",./1.png
+0.83283590006023,43.8017694525159,EPA,AbandonnÃ©,"32",Monfort,Sol,2 bis,"7,00 ha",,,Non,,,,,,,"0.8328359000602301","43.80176945251591",./0.png
+0.072402456229591,43.809287845714,EPA,AbandonnÃ©,"32",MANCIET,Sol,2 bis,"10",,,Non,,Terrain incompatible,Bouydron Liliane exploitant agricole,,,,"0.07240245622959057","43.80928784571398",./0.png
+0.241732476709238,43.9111743445691,EPA,En cours,"32",GONDRIN,Sol,2 bis,"10.6",A,,Non,,"FCS Ã  faire, DRP, IntÃ©rressant pour ombriÃ¨res bovines, 100ha de terres au total donc possiblement zone propice Ã  exploiter :Contact Ã  relancer",Jean Marie MAO,,,,"0.2417324767092382","43.911174344569105",./1.png
+1.34411571192725,43.9807220953777,CLM +  PAL,En cours,,Montauban (Martinet),Sol,"3","7,00 ha",AP,,,,,,,,,"1.3441157119272453","43.98072209537767",./1.png
+1.22680084366,43.9886028282792,CLM +  PAL,En cours,,MONTECH,Sol,"3","21",UXa,,Non,,"stÃ© DRIMM, voir avec PAS",,"0",,,"1.2268008436599986","43.98860282827917",./1.png
+1.12532442176347,43.9989677989882,CLM +  PAL,En cours,,Casltelsarasin (la Samponne),Sol,"3","1,60 ha",N,,,,,,,,,"1.1253244217634726","43.99896779898822",./1.png
+1.21435388618321,43.9998896664156,CLM +  PAL,En cours,,Escatalens (Farau),Sol,"3","33,00 ha",A + NG,,,,"stÃ© Denjeant, voir avec PAS",,,,,"1.214353886183206","43.99988966641561",./1.png
+1.07293593953369,44.0235396626101,,AbandonnÃ©,"82100",Castelsarrasin,FPV,"3","8,00 ha",,,,,,,,,,"1.0729359395336868","44.02353966261009",./0.png
+1.16347434998048,44.0380559702293,CLM +  PAL,En cours,,Casltelsarasin (Malhaurens),Sol,"3","4,00 ha",N,,,,,,,,,"1.1634743499804825","44.038055970229266",./1.png
+1.17477589288961,44.0393653957002,CLM +  PAL,En cours,,Casltelsarasin (Guitarde),Agri PV,2 bis,"12,00 ha",A,,,,,,,,,"1.1747758928896133","44.0393653957002",./1.png
+0.946895193860484,44.0649571161228,PAL,En cours,"82400",Espalais (GraviÃ¨re de merle),FPV,"3","12,00 ha",,,,,,,,,,"0.946895193860484","44.06495711612277",./1.png
+1.68768717339673,44.1151069172813,CLM +  PAL,En cours,,Cazals (Saint GÃ©niÃ¨s),Sol,"3","1,70 ha",A,,,,,,,,,"1.6876871733967285","44.11510691728125",./1.png
+0.622904047339219,44.1430434737888,PAL,AbandonnÃ©,"47310",Moirax,ombriÃ¨re,,,,,,,,,,,,"0.6229040473392187","44.14304347378882",./0.png
+-0.273406222673264,44.1732161812847,PAL,A lancer,"40134",LABOUHEYRE,sol,,"9,04 ha",N,,,,Ã  cotÃ© d'une autre centrale : pourquoi pas prolongÃ© jusque la ?,appeler mairie,,,,"-0.2734062226732636","44.17321618128466",./2.png
+-0.273406222673264,44.1733225573576,VCA,AbandonnÃ©,"40120",Retjons,FPV,"3","7,40 ha",RNU,Aucun,non,"100",Plans d'eau appartenannt Ã  la commune,commune appelÃ©e le 03/05 : lacs utilisÃ©s pour la peche et les loisirs,05 58 93 36 42,,,"-0.2734062226732636","44.17332255735755",./0.png
+-0.27251633896694,44.1742373836633,CLM,En cours,"40282",SAINT-SEVER,Sol,"3","2,45 ha",A,,,50 m,classÃ© A mais site basias: intÃ©ressant,contact mairie / demande de RP,,,,"-0.27251633896694005","44.17423738366327",./1.png
+-0.272753641288626,44.1742799333786,CLM,En cours,"40184",MIMIZAN,sol,"3","4,50 ha","Ula, normalement autorisÃ©",,,,"zone dÃ©frichÃ©e en continuitÃ© urbaine, voir utilitÃ© des parcelles",contacter Gascogne,,,,"-0.27275364128862634","44.17427993337864",./1.png
+-0.272842629659259,44.1746628794352,CLM,En cours,"40102",GABARRET,Sol,"3","3,00 ha",N,,,500 m,,contacter mairie,05 58 44 90 03,,,"-0.2728426296592587","44.1746628794352",./1.png
+0.663214383974383,44.1756138286938,EPA,A lancer,"32",BoÃ©,Sol,"1","4.3",2AUX,,Non,,FCS faite,Florenzio PLA RODRIGUEZ ou via la sociÃ©tÃ© JECHRIVIN,,,,"0.6632143839743827","44.17561382869383",./2.png
+0.655658398133392,44.220185307757,PAL,En cours,"47480",Pont du casse (DE SANGOSSE),ombriÃ¨re,"1","1,00 ha",,,,,,,,,,"0.6556583981333921","44.22018530775702",./1.png
+0.538430309234494,44.2338199980485,PAL,En cours,"47450",Colayrac Saint Cirq,FPV,"3","9,00 ha",,,,,,,,,,"0.5384303092344935","44.23381999804846",./1.png
+0.68972553799354,44.2865121257171,PAL,AbandonnÃ©,"47340",La Croix-Blanche,Sol,"1","5,20 ha",1AUX,,,500 m,contacter les 3 propriÃ©taires et laisser un message,26 et 27/01 relance tÃ©l + dÃ©placement sur place. Proprio Ququel absent et voisins absents Ã©galement. Pas d'info Ã  date.,,,Oui,"0.6897255379935403","44.28651212571714",./0.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0.252312014612128,44.3017110926156,PAL,En cours,"47160",Saint LÃ©on (Patole),Sol,2 bis,"7,00 ha",,,,,,,,,,"0.252312014612128","44.30171109261565",./1.png
+0.647739714570103,44.3091754715594,GBA,En cours,"47360",Sembas (LaucatÃ¨re),Agri PV,2 bis,"15,00 ha",A,,,,jachÃ¨re de 6 ans ou plus considÃ©rÃ©e d'intÃ©rÃªt Ã©cologique,"02/03 : D RP ; reÃ§us le 03/03, contacter les propriÃ©taires le lundi 6 mars (Yves Chaubart 0553688069) pas disponible, Ã  relancer la semaine du 13 au 18 mars, pas dispo. Relances : 03/04, 04/04",,,,"0.6477397145701027","44.30917547155943",./1.png
+0.376906209217103,44.3152802669665,PAL,En cours,"47190",Aiguillon (Tuilerie MONIER),ombriÃ¨res stockage,,"2,50 ha",,,,,,,,,,"0.3769062092171029","44.31528026696651",./1.png
+2.64455455134142,44.3477768524417,VCA,En pause,"12241",sainte-radegonde,decharge (sol),,"6,00 ha",Ncapv,,,"300",mail envoyÃ© Ã  la mairie de rodez aprÃ¨s contact tÃ©lÃ©phonique,,,,Oui,"2.644554551341424","44.34777685244174",./4.png
+2.60013826403193,44.3599406435469,VCA,En cours,"12000",Rodez,ombrieres parking,,"1,00 ha",Uxa,,,,voir pour ombriÃ¨res sur le parking de l'usine,contacter Mr batut respo infrastructure rodez,05 65 67 74 01,,Oui,"2.6001382640319255","44.359940643546906",./1.png
+-0.242750607365492,44.4462466435397,CLM,En cours,"33430",Bazas,Sol,,"2,50 ha",RNU mais PLU en cours,Aucun,,pas d'info,Chercher un contact chez ASF,,,,,"-0.2427506073654924","44.44624664353972",./1.png
+0.177808810199814,44.4968801424684,EPA,En cours,"47",Marmande CÃ©same,OmbriÃ¨re,"3",",50 ha",UB,,,"100",FCS faite,CitÃ© de la formation de Marmande,,,,"0.1778088101998137","44.4968801424684",./1.png
+0.191827596526501,44.5107714670396,EPA,En cours,"47",Machou,Sol,2 bis,"1,00 ha",A,,Non,Ligne HTA sur site,FCS faite,SCI MACHOU (dirigeant Bruce Schiro),sociÃ©tÃ© 05 53 84 72 83,contact@schiromenuiseries.com,,"0.19182759652650094","44.510771467039575",./1.png
+-0.957613730985667,44.6439526925382,VCA,AbandonnÃ©,"33380",Biganos,FPV,"3","5,00 ha",,,,,Trop proche des habitations,,,,,"-0.957613730985667","44.64395269253822",./0.png
+-0.096658584649976,44.6825531833874,SAH,En pause,"33540",Sauveterre de guyenne,Multi sites,,,,,,,"Multisites prÃ©sentÃ©s en Mairie, offre envoyÃ©e, pas acceptÃ©e.",,,,Non,"-0.0966585846499763","44.6825531833874",./4.png
+0.522386880923133,44.7107020269607,SAH,En cours,"33127",Martignas-sur-Jalle,carriere,"3","11,10 ha",Ng (EIC autorisÃ©s),Aucun,Non,50 m,Ancienne dÃ©charge. PropriÃ©taires privÃ©s contactÃ©s par courrier du 6/02. DifficultÃ©s Ã  les joindre. Demande de rdv Ã  la mairie.,Relance rdv mairie,05 57 97 00 50,,,"0.5223868809231328","44.71070202696069",./1.png
+-0.735137820555806,44.8469916408702,VCA,AbandonnÃ©,"33700",MÃ©rignac,carriere,"3","9,00 ha",,,,,appartient Ã  la sociÃ©tÃ© moderne de technique routiÃ¨re. Sorte de dÃ©charge.,carriere en activitÃ©,,,,"-0.7351378205558057","44.84699164087016",./0.png
+0.168813702692914,44.8538098717225,ALL,En cours,"33220",Fougueyrolles (AMI),Sol + toiture,,"9,00 ha",,,,,,,,,,"0.16881370269291388","44.85380987172252",./1.png
+-0.346690131130304,44.9105091711345,VCA,AbandonnÃ©,"33450",Izon,Sol,,"1,50 ha",,,Non,"150",vendu rÃ©cemment 20/04,,05 56 68 80 65,,,"-0.34669013113030384","44.91050917113449",./0.png
+-0.593256985709949,44.9236728212411,VCA,A lancer,"33114",Le Barp,OmbriÃ¨re,PPA,"10,00 ha",A,,,,"Contacter Alliance ForÃªt Bois,  Tel : 05 40 120 100",,,,,"-0.5932569857099491","44.9236728212411",./2.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+-0.593955312840814,44.9240741950394,PAL,En cours,"33380",Mios,OmbriÃ¨re,"3","1,00 ha",UY,,,,possibilitÃ© d'ombriÃ¨res,contacter  XELLA THERMOPIERRE,,,,"-0.5939553128408142","44.924074195039424",./1.png
+-0.593514003891585,44.9248990334173,PAL,AbandonnÃ©,"33450",Izon,FPV,"3","5,00 ha",???,,,,plusieurs lacs appartenant Ã  la commune d'izon,contacter commune (vers juin car manque d'effectifs),,,,"-0.5935140038915846","44.92489903341726",./0.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+-0.598637231062928,44.9271461726435,PAL,En cours,"33290",Blanquefort,carriere,"3","46,00 ha","Nb (PV autorisÃ©), Ne (Pv autorisÃ© aussi)",PPRI,Non,,plusieurs grands lacs dont certains exploitÃ©s,"voir avec bordeaux metropole: 28/02 mail envoyÃ© au chef de service Ã©nergie DD ; commune de Blanquefort : 28/02 mail envoyÃ© cabinet du maire ; SOGEFIMA ; COLAS SA : Yannick Durand (message linkedin)",,"cguillaume@bordeaux-metropole.fr ; cabinet@ville-blanquefort.fr",,"-0.5986372310629278","44.92714617264349",./1.png
+-0.061754552353831,45.0112541334859,STR,En cours,"33230",Saint-MÃ©dard-de-GuiziÃ¨res,Sol,"3","1,50 ha",Npv,,,220 m,,"prÃ©sentation faite en mairie, attente retour maire",,,,"-0.06175455235383097","45.01125413348592",./1.png
+-0.102147711542894,45.0556096441355,PAL,A lancer,"33230",Coutras,,,"3,50 ha",A,,,,"mairie appelÃ©e pour le plu, voir le relevÃ© parcellaire",,,,,"-0.10214771154289369","45.05560964413553",./2.png
+-0.326907090374465,45.1388979056798,CLM,En cours,"33620",Laruscade,carriere + FPV,"3","4,50 ha",Nc (EIC ok),Aucun,Non,600 m,carriÃ¨re appartenant Ã  GAIA,"contacter GAIA, filiale de COLAS OUEST",05 57 92 13 00,,,"-0.326907090374465","45.138897905679755",./1.png
+-0.571321257105576,45.2720031038303,GBA,En cours,"33000",Saint-Aubin-de-Blaye,carriere,"3","3,00 ha",NL : Loisir ( EIC interdit mais plu de 2014 donc Ã  voir),,,465 m,site basias appartenant Ã  la commune,voir avec commune utilitÃ© du site,05 57 32 62 03,,,"-0.5713212571055765","45.272003103830315",./1.png
+-0.183229185296891,45.3101796706937,SAH,En cours,"16360",Bors,FPV,"3","5,00 ha",,,,600 m,Projet Groleau : En dÃ©veloppement,,,,,"-0.1832291852968914","45.31017967069366",./1.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+-0.040685457211895,45.3342042949511,VCA,AbandonnÃ©,"16480",Brossac,Sol ou Hangar de stockage,,"3,00 ha",,,,"1000",dÃ©laissÃ©s appartenant Ã  la cc4B et une autre entitÃ©,dÃ©jÃ  un projet selon la cc4B,CC4B TÃ©l: 05 45 78 89 09,,,"-0.04068545721189542","45.334204294951064",./0.png
+-0.173960403779928,45.4620742307796,VCA,AbandonnÃ©,"16300",Barbezieux-Saint-Hilaire,Sol,,",50 ha",NP,,Oui,,trop de contraintes naturelles,,,,,"-0.173960403779928","45.46207423077962",./0.png
+-0.173851963876843,45.4621368665084,VCA,AbandonnÃ©,"16300",Barbezieux-Saint-Hilaire,Sol,,",67 ha",UE,Aucun,Non,"200",dÃ©laissÃ© appartenant Ã  la commune,vu avec le maire et pas bon,,,,"-0.17385196387684274","45.46213686650836",./0.png
+-0.174049707229528,45.4621458144639,VCA,AbandonnÃ©,"16300",Barbezieux-Saint-Hilaire,OmbriÃ¨re,,",50 ha",UE,Aucun,Oui,"100","couverture terrain de tennis et boulodrome dans le perimetre du chÃ¢teau de barbezieux, Ã  voir",Pas de besoin particulier,,,,"-0.17404970722952767","45.46214581446392",./0.png
+-0.173966782597757,45.4621905542205,VCA,AbandonnÃ©,"16300",Barret,Sol,,",85 ha",RNU,Aucun,Non,50 m,"parcelle appartenant Ã  la commune de barbezieux sur la commune de barret, pb : maisons pas loin",dÃ©jÃ  utilisÃ© pour autre projet,,,,"-0.17396678259775655","45.462190554220456",./0.png
+-0.174030570776042,45.4622196350431,VCA,AbandonnÃ©,"16300",Barbezieux-Saint-Hilaire,Sol,,"1,00 ha",A,Aucun,Oui,"300",parcelle 862 appartient Ã  la commune et rÃ©servÃ©e pour les installations d'interet general,crÃ©ation lotissement Ã  venir,,,,"-0.17403057077604203","45.46221963504314",./0.png
+2.13541171669563,45.506406205993,PAL,AbandonnÃ©,"19250",MEYMAC (La Vedrennes),Sol,"1","3,00 ha",Ux,,,,dÃ©laissÃ© de stockage,trop petit,,trop petit,,"2.1354117166956255","45.50640620599299",./0.png
+2.13514759592119,45.5067658985944,PAL,AbandonnÃ©,"19250",Meymac,Sol,"1","3,00 ha",,,,,,projet existant,,projet existant,,"2.135147595921186","45.50676589859435",./0.png
+2.15434699519989,45.5207717912169,VCA,AbandonnÃ©,"19120",VÃ©gennes,carriÃ¨re,"3","4,00 ha",PLU en cours d'Ã©laboration,,,"50","carriÃ¨re du roc de la dame : pptÃ© eurovia, contacter pour connaitre l'avancement","terrain trop accidentÃ©, trop peu de surface",06 73 89 54 76,,,"2.15434699519989","45.52077179121687",./0.png
+1.07421736635722,45.5324878837396,VCA,A lancer,"24218",JUMILHAC-LE-GRAND,,,"50,04 ha","zone naturelle dans la carte communale, mais plui en elaboration",,,"400",pptÃ© d'orano mining,"orano contactÃ© le 29/04 : plus de nouveau projet de PV sur leurs parcelles, rappeler dans 3 mois",06 31 78 40 00,,,"1.0742173663572157","45.53248788373958",./2.png
+-0.827394211348727,45.6194173199734,SAH,En cours,"17120",GrÃ©zac,Sol,"3","3,5 ha",N,,,Ã  proximitÃ© du site,Ancienne dÃ©charge plus exploitÃ©e par NICOLLIN depuis 15 ans,Standard renvoie uniquement vers le mail du Directeur Administratif et Financier M Baptiste MICHON. Mail envoyÃ© le 6/04,Pas transmis,b.michon@groupenicollin.com,,"-0.8273942113487266","45.619417319973365",./1.png
+-0.934706328950837,45.7724576818994,VCA,AbandonnÃ©,"17349",SAINT-JEAN-DE-LIVERSAY,Sol,"3","4,20 ha",1AUE = UE (ok EIC),,,"50",site basias,dÃ©jÃ  des projets de construction de locaux techniques mais contact laissÃ©,Â 05 46 01 84 17,,,"-0.9347063289508375","45.772457681899425",./0.png
+-0.933961303297637,45.7726836216932,PAL,En cours,"17184",La Gripperie-Saint-Symphorien,FPV,,"15,00 ha","N, NC1, NC2, NLprl, NLc",,,,plusieurs carriÃ¨res cote Ã  cote,contacter Les GOEMONS propriÃ©taire des carriÃ¨res,,,,"-0.9339613032976366","45.772683621693176",./1.png
+-0.934009891927193,45.7728417790042,VCA,AbandonnÃ©,"17142",DOMPIERRE-SUR-MER,sol,,"4,80 ha",A,,,"50","zone A donc changement PLU, repÃ©rÃ© pour Pv donc ouverture probable, parcelles appartenant Ã  la CA de la rochelle",contacter CA la rochelle pour savoir si projet,,,,"-0.934009891927193","45.77284177900418",./0.png
+-0.852491588159342,45.8466416272568,VCA,AbandonnÃ©,"17250",Beurlay,Sol,,"4,00 ha","NC, emprise au sol de 100mÂ²",,,sur site,"plu pas trÃ¨s favorable : parc pv interdit en N, topologie complexe, zone innondÃ©e rÃ©guliÃ¨rement",voir avec mairie,,,,"-0.8524915881593416","45.846641627256844",./0.png
+0.22708546127223,45.9162334901361,GBA,AbandonnÃ©,"16460",Aunac sur Charente (Croix GuCOTEAU BAYERS),Sol,"3","2,20 ha",,,Oui,,"RNU ; trace anthropique - ancienne carriÃ¨re ?","22/02 : site visitÃ©, en deux parties le long de la D56. Une partie dÃ©laissÃ©e aprÃ¨s activitÃ©s (bÃ¢tis, luminaires) et l'autre dÃ©pÃ´ts de dÃ©chets. 24/02 : mail envoyÃ© Ã  l'attention du maire ; 06/03 Ã©change avec la mairie + D RP sur la partie Sud",,,,"0.22708546127223003","45.916233490136136",./0.png
+-0.836104397209148,45.9266636232917,Pas d'affectation,En pause,"17075",Cabariot,Sol,,"5,90 ha",N,,,,"dÃ©laissÃ© autoroutier appartenant Ã  l'Ã©tat, voir avec la mairie",,,,Oui,"-0.836104397209148","45.92666362329169",./4.png
+0.258451049021363,45.9331721855275,GBA,AbandonnÃ©,"16460",Aunac sur Charente (Croix Guillot),Sol,"3","1,50 ha",N,,Oui,,Ancienne carriÃ¨re,"22/02 : sitÃ© visitÃ©. Petit. Ancienne carriÃ¨re sÃ©curisÃ©e pour empÃªcher les dÃ©pÃ´ts sauvages. 24/02 : mail envoyÃ© Ã  l'attention du maire ; 06/03 Ã©change avec la mairie, pas une prioritÃ© pour le moment mais doit revenir vers nous (Ã©lu rÃ©fÃ©rent",,,,"0.2584510490213626","45.933172185527525",./0.png
+0.23149183987469,45.9390852310862,GBA,En cours,"16460",Chenon,,"3","1,30 ha",,,,,,"Visite le 22/02 : site protÃ©gÃ© par un portail, peu naturÃ©, des niveaux pas homogÃ¨nes. Aucun impact visuel.  24/02 : mail envoyÃ© Ã  l'attention du maire ; 06/03 Ã©change avec la mairie, rdv avec Mme le maire le 22/03 ; PrÃ©sentation du projet en mair",,mainguet.mp@orange.fr,,"0.23149183987468983","45.93908523108621",./1.png
+1.04169415320673,45.9966126679817,GBA/EPA,En cours,"87",CIEUX,Sol,"1","2.6",,,,,"prÃ©sence d'ovin sur la parcelle, co-visibilitÃ© avec quelques voisins",,,,,"1.0416941532067274","45.99661266798168",./1.png
+-0.938905246645787,46.0996087470845,VCA,AbandonnÃ©,"17290",Le Thou,Omb. Stockage,,"3,00 ha",U,,,,Proposer le projet au siege social de SEAC,contacter siege social,,,,"-0.9389052466457873","46.099608747084545",./0.png
+0.924687965970999,46.1092923759451,GBA/EPA,En cours,"87",VAL D ISSOIRE,Sol,"1","8",,,,,"Ã©leveur ovin, proximitÃ© de certaines maisons, mairie ouverte aux projets",Daviaud (qui serrait interressÃ© pour vendre ses terrains),,,,"0.9246879659709992","46.109292375945074",./1.png
+0.924652992749324,46.1111095360513,GBA/EPA,A lancer,"87",VAL D ISSOIRE,OmbriÃ¨re,"1",",50 ha",UX et A,,,,"scierie avec besoin de stockage 5000mÂ², en attente de l'achat du foncier",Achat Bois Loimousin (voir Guillaume qui Ã  le numÃ©ro),,,,"0.9246529927493243","46.111109536051345",./2.png
+1.11065103844426,46.1322468768684,GBA/EPA,En cours,"87",BLANZAC,Sol,"1","2.6",,,,,"poste HTA proche, dÃ©risquÃ©",,,,,"1.110651038444256","46.132246876868436",./1.png
+-1.01555773888053,46.1745713219875,CLM,En cours,"17059",BOURGNEUF,Sol,"3","1,67 ha",A,,,sur place,friche sur site basias,mairie contactÃ©e : prÃ©sentation de l'entreprise envoyÃ©e par mail car maire recherche entreprises pour projet PV,05 46 55 00 28,,,"-1.015557738880533","46.17457132198746",./1.png
+-1.1420408166148,46.1804643574276,VCA,AbandonnÃ©,"17140",LAGORD,Sol,,"3,27 ha",N,,,,"continuitÃ© d'habitations, proche nationale et pas forcÃ©ment dÃ©gradÃ© donc abandon",,05 46 00 62 00,,,"-1.1420408166148024","46.18046435742755",./0.png
+-0.709535104699927,46.1969821609864,SAH,AbandonnÃ©,"17700",saint pierre d'amilly,FPV,,,,,,,"M Bourret propriÃ©taire : Offre envoyÃ©e printemps 2022, pas acceptÃ©e.",,,,Non,"-0.7095351046999273","46.19698216098635",./0.png
+1.34251554128523,46.3271412661301,EPA,AbandonnÃ©,"87",Mailhac sur Benaize,Sol,"3","3",,,,,Visite faite et abandon car Parc photovoltaÃ¯que dÃ©jÃ  existant de EDF,Commune de Mailhac sur Benaize,,,,"1.3425155412852268","46.3271412661301",./0.png
+0.458092476065026,46.3904703003808,EPA,En cours,"86160",Saint-Maurice-la-ClouÃ¨re,Agri PV,2 bis,"30,00 ha",,,,,"une partie en fourrage (luzerne) au sud, au nord prairie en rotation longue (6 ans)","28/02 : D RP / En rÃ©ponse, demande du cerfa correspondant",,,,"0.4580924760650256","46.39047030038079",./1.png
+0.458092476065026,46.3904703003808,EPA,En cours,"86160",Saint-Maurice-la-ClouÃ¨re,Agri PV,2 bis,"10,00 ha",,,,,prairie permanente,,,,,"0.4580924760650256","46.39047030038079",./1.png
+0.458092476065026,46.3904703003808,EPA,En cours,"86160",Saint-Maurice-la-ClouÃ¨re,Agri PV,2 bis,"9,00 ha",,,,,tournesol et jachÃ¨re de 5 ans ou moins (en 2020),,,,,"0.4580924760650256","46.39047030038079",./1.png
+0.464781687541487,46.4018218798395,VCA,AbandonnÃ©,"86160",Saint-Maurice-la-ClouÃ¨re,Agri PV,2 bis,"35,00 ha",,,,,fourrage (luzerne),,,,,"0.4647816875414872","46.40182187983945",./0.png
+0.319231380128359,46.4509514009109,GBA,En cours,"86340",Aslonnes,Agri PV,2 bis,"5,50 ha","A, N",,,,prairie permanente,"03/03 D RP ; reÃ§u le 08/03 indvision avec 4 propriÃ©taires (Crouigneau Catherine, Ã©levage caprin, 05 49 42 52 31)",,,,"0.3192313801283594","46.450951400910895",./1.png
+0.377857764854247,46.452050271746,GBA,En cours,"86340",La Villedieu-du-Clain,Agri PV,2 bis,"3,00 ha",A,,,,prairie en rotation longue,"03/03 D RP ; reÃ§u le 10/03",,,,"0.37785776485424666","46.452050271745975",./1.png
+0.241372806747109,46.5213352617994,GBA/EPA,En cours,"86240",Fontaine le comte,Agri PV,2 bis,"30,00 ha",,,,,jachÃ¨re de 5 ans ou moins (2020),28/02 : D RP,,,,"0.2413728067471093","46.52133526179936",./1.png
+0.430924726348254,46.5378014116587,GBA,En cours,"86550",Mignaloux-Beauvoir,Agri PV,2 bis,"14,00 ha",A,,,,jachÃ¨re de 5 ans ou moins (2020),"02/03 D RP ; reÃ§u le 15/03 (Pascal Moreau  05 49 46 65 96) : 04/04 pas de rÃ©ponse",,,,"0.4309247263482538","46.53780141165867",./1.png
+0.56773388077419,46.5446299404423,GBA/EPA,En cours,"86800",PouillÃ©,Agri PV,2 bis,"7,00 ha",,,,,prairie permanente,"03/03 D RP ; reÃ§u le 08/03 (Gringot Thierry 05 49 56 80 89) ; 04/04 pas de rÃ©ponse",,,,"0.5677338807741895","46.54462994044235",./1.png
+0.383976275876289,46.5498153935149,CLM,En cours,"86550",Mignaloux-Beauvoir,Agri PV,2 bis,"7,70 ha",A1,Aucun,Non,850 m,jachÃ¨re de 6 ans ou plus / considÃ©rÃ©e d'intÃ©rÃªt Ã©cologique,,,,,"0.3839762758762891","46.54981539351493",./1.png
+0.548841038747146,46.5523145780116,GBA,En cours,"86800",Jardres,Agri PV,2 bis,"13,00 ha",,,,,jachÃ¨re de 5 ans ou moins (2020),"03/03 D RP ; reÃ§u le 06/03 Maxime Aubrun, pas de unmÃ©ro disponible, Ã  creuser",,,,"0.5488410387471457","46.55231457801156",./1.png
+0.266116596575525,46.5589723606369,GBA/EPA,En cours,"86580",Vouneuil-sous-Biard,Agri PV,2 bis,"10,00 ha",,,,,prairie permanente,"03/03 D RP ; reÃ§u le 03/03 pas de numÃ©ro disponible",,,,"0.26611659657552456","46.55897236063686",./1.png
+0.52874193517742,46.5834921224521,GBA,AbandonnÃ©,"86800",Lavoux,Agri PV,2 bis,"12,00 ha",,,,,fourrage (luzerne),"PropriÃ©taire : GFA Bejaud (Bejaud Philippe 05 49 44 27 34) pas du tout intÃ©ressÃ©, un projet Ã©olien en cours",,,,"0.5287419351774201","46.58349212245213",./0.png
+0.564648918414035,46.618773990119,GBA/EPA,En cours,,Liniers / Bonnes,Agri PV,2 bis,"21,00 ha",A,,,,jachÃ¨re de moins de 5 ans,"28/02 : D RP / reÃ§us le 01/03 ; Bouchard Philippe 06 20 72 16 44 ; 03/03 Ã©change positif avec le propriÃ©taire, doit revenir vers nous ; confirmation d'un intÃ©rÃªt pour Ã©tudier une proposition (point de vigilance : indivision avec son frÃ¨re et relat",,domaineorgemont@gmail.com,,"0.5646489184140346","46.618773990119024",./1.png
+-0.586092675057598,46.633995996018,VCA + PAL,En cours,"79292",Thouars,Sol + FPV,"3","500,00 ha",Np,,,,"grosse zone de carriÃ¨re Ã  l'ouest de thouars, exploitÃ© par CARRIERE DE LUCHE, SARL ANETT UN,","val: Contacter mairie pour connaitre l'Ã©tat des carrieres, si projet PV,",05 49 66 68 68,plui@thouars-communaute.fr,Oui,"-0.5860926750575977","46.63399599601797",./1.png
+0,0,,,,,,,,,,,,,PA : Voir avec les entreprises/ Contact tÃ©l le 19/05 avec assistante Directeur Technique du groupe Annet Mr Thierry Bourneau,05 49 68 18 12,t.bourneau@anett.fr,,,,./3.png
+-0.58577134937077,46.6340304710541,VCA,En pause,"79240",Saint Paul en Gatine,Hangar,,"1,20 ha",Ux,Aucun,Non,voir sur place,ombrieres de stockage pour la scierie,"entreprise contactÃ©e, acquisition des parcelles en cours puis terrassement donc pas de projet dans l'immÃ©diat mais peut etre fin 2022",06 24 71 03 28,,Oui,"-0.58577134937077","46.6340304710541",./4.png
+-0.217191429349899,46.6430302870744,CLM,En cours,"79202",PARTHENAY,Sol,"1","3,10 ha",UI,PPRI,Non,sur site,zone urbanisÃ©e donc pourquoi pas + appartient Ã  la communaute communes,mail envoyÃ© pour dispo + confirmation proprio commune,,,,"-0.21719142934989907","46.643030287074396",./1.png
+0.543159623103593,46.7493177754752,VCA,AbandonnÃ©,"86530",Cenon-sur-Vienne,FPV,"3","5,00 ha",A,,,"2000",changement de propriÃ©taire : rachat pour loisir,identifier propriÃ©taire,05 49 21 33 07,contact@cenonsurvienne.fr,,"0.5431596231035932","46.74931777547519",./0.png
+0,0,PAL/EPA,AbandonnÃ©,"32330",LauraÃ«t,Sol,"3","11,00 ha",,,,,carriÃ¨re dÃ©jÃ  allouÃ©e Ã  un autre dÃ©veloppeur,,,,,,,./0.png
+0,0,PAL/EPA,AbandonnÃ©,"32330",LauraÃ«t,Sol,"3","13,00 ha",,,,,carriÃ¨re Bezerra dÃ©jÃ  allouÃ©e Ã  un autre dÃ©veloppeur,,,,,,,./0.png
+0,0,PAL/EPA,AbandonnÃ©,"32330",LauraÃ«t,Sol,"3","8,00 ha",,,,,carriÃ¨re dÃ©jÃ  allouÃ©e Ã  un autre dÃ©veloppeur,,,,,,,./0.png
+0,0,PAL/EPA,AbandonnÃ©,,Montreal,Sol,"3","13,00 ha",,,,,carriÃ¨re Bezerra dÃ©jÃ  allouÃ©e Ã  un autre dÃ©veloppeur,,,,,,,./0.png
+0,0,PAL/EPA,En cours,"32100",Condom,OmbriÃ¨re,Aucun,",50 ha",UC,PPRI,Oui,,dÃ©claration prÃ©alable de travaux nÃ©cÃ©ssaire car le terrain contient des Ã©lÃ©ments de paysage selon le PLUi / https://elasticmap.fr/#/project/823364,FCS / Calepinage / contact proprio / contact avec les ABF,,,,,,./1.png
+0,0,PAL/EPA,En cours,"32100",Condom,Sol,2 bis,"1,40 ha",N,,Oui,20m,terrain en bordure d'espace sportif,contacter mairie,,,,,,./1.png
+0,0,GBA/EPA,AbandonnÃ©,"87",CIEUX,Sol,"1","3.1",,,,,forte pente nord et grose co visibilitÃ©,,,,,,,./0.png
+0,0,GBA/EPA,AbandonnÃ©,"87",BERNEUIL,Sol,"1","4",,,,,Projet immobilier de la commune en cours,Commune de Berneuil,,,,,,./0.png
+0,0,GBA/EPA,AbandonnÃ©,"87",BELLAC,Sol,"3","8",,,,,"Zone A ou N, bordure de ville",,,,,,,./0.png
+0,0,GBA/EPA,AbandonnÃ©,"87",BLANZAC,Sol,"1","7",,,,,"PropriÃ©taire pas interressÃ©, manque d'accessibilitÃ©",Forge des centaures AGHC,,,,,,./0.png
+0,0,GBA/EPA,AbandonnÃ©,"87",SAINT-OUEN-SUR-GARTEMPE,Sol,"1","1.8",,,,,propriÃ©taire pas interrressÃ© sur cette parcelle (mais possiblement sur plan d'eau) car trop forte co visibilitÃ©,,,,,,,./0.png
+0,0,GBA/EPA,AbandonnÃ©,"87",SAINT-OUEN-SUR-GARTEMPE,Sol,"3","2",,,,,trop boisÃ©,,,,,,,./0.png
+0,0,GBA/EPA,AbandonnÃ©,"87",MAGNAC-LAVAL,Sol,"3","1",,,,,DÃ©coupÃ© par des batiments,,,,,,,./0.png
+0,0,GBA/EPA,AbandonnÃ©,"87",LES GRANDS CHEZEAUX,Sol,"3","2,00 ha",,,,,"Visite faite et terrain impraticable, site encaissÃ©, trop de vÃ©gÃ©tatio, marÃ©cageux",THOMAS Agnes Gabrielle Marcelle chÃ¢teau de rhodes mouhet 36170,,,,,,./0.png
+0,0,VCA,A lancer,"19129",MASSERET,Sol,"3","6,53 ha",A,,,,"chaud car poste source trÃ¨s loin, zone agricole : voir com ddt",,,,,,,./2.png
+0,0,VCA + PAL,AbandonnÃ©,"19136",MEYMAC,Sol,"3","6,01 ha",N,,,"250","basias, pas d'enjeux ecologiques, zone N mais EIC autorisÃ©s",mairie contactÃ©e,05 55 46 19 90Â ,,Oui,,,./0.png
+0,0,,A lancer,"33240",Saint-Laurent-d'Arce,carriere,,"6,10 ha",,,,,,,,,,,,./2.png
+0,0,VCA,AbandonnÃ©,"33284",Mios,sol,PPA,"4,00 ha","Nc, EIC autorisÃ©s",,,,petite friche en bord de sabliÃ¨re et d'autoroute,propriÃ©taires contactÃ©s : pas favorables au projet,05 56 26 66 21,,,,,./0.png
+0,0,,A lancer,"33290",Blanquefort,carriere,,"7,00 ha",,,,,,,,,,,,./2.png
+0,0,,A lancer,"33460",Arsac,FPV,,"7,30 ha",,,,,,,,,,,,./2.png
+0,0,VCA,AbandonnÃ©,"33480",Avensan,FPV,"3","24,00 ha",,,,,3 enormes graviÃ¨res ou lacs + ombrieres scieries,"maire fermÃ© aux enr, non catÃ©gorique, voir plus tard si possible car potentiel",05 56 58 17 07,mairie.avensan@mairie-avensan.fr,,,,./0.png
+0,0,,A lancer,"33640",Portets,carriere,,"7,30 ha",,,,,,,,,,,,./2.png
+0,0,VCA,AbandonnÃ©,"33650",Cabanac-et-Villagrains,FPV,"3","10,00 ha",N,,,,plusieurs lacs,lafarge contactÃ© et pas possible car dÃ©jÃ  projets lancÃ©s dans la carriÃ¨re,06 69 00 22 33,,,,,./0.png
+0,0,,AbandonnÃ©,"40200",mimizan,sol,,"2,00 ha",,,,,plusieurs zones en friche,"voir avec ""Gascogne"" propriÃ©taire des terrains",,,,,,./0.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0,0,GBA,En cours,,Ingrande,Agri PV,2 bis,"24,00 ha",A,Aucun,Non,,"JachÃ¨re de 6 ans ou plus, aucune contrainte environnementale, compatible Plu","Visite de site le 06/04, propriÃ©taire pas prÃ©sent, 2 lignes HTA traversent la parcelle, pas d'enjeux de covisibilitÃ© + prÃ©sence d'Ã©oliennes ; Faire demande RP",,,,,,./1.png
+0,0,,A lancer,"33440",Saint-Vincent-de-Paul,carriere,,"7,80 ha",,,,,,,,,,,,./2.png
+0,0,STR,En cours,"33380",Marcheprime,FPV,"3","33,00 ha",Ncar,,,,,Discuter avec l'exploitant SAMIN + Demander des RP Ã  la mairie,05 57 71 18 48,samincontact.GenA39@saint-gobain.com,Oui,,,./1.png
+0,0,,,,,,,,NC,,,,,,,,,,,./3.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0,0,PAL/EPA,En cours,"16110",Moulins sur tardoire,Sol,,"7,00 ha",NeR,,,,carriÃ¨re,contacter exploitant carriere,05 45 62 00 58,,,,,./1.png
+0,0,PAL,En cours,"47220",Saint-Sixte MagnÃ©,FPV,,"3,60 ha",N,,,,28/01 proprio identifiÃ© = Indivision MAGNE,,"553873082, 05 62 63 20 28",,,,,./1.png
+0,0,,,,,,,,,,,,27/01 Demande relevÃ© propriÃ©tÃ© envoyÃ©e,,,,,,,./3.png
+0,0,,AbandonnÃ©,"33230",Abzac,Hangar,,"1,00 ha",A,,,450 m,Proposition de couverture pv envoyÃ©e le 27/10,,06 24 99 94 59,,,,,./0.png
+0,0,,,,,,,,(Centre Equestre),,,,,,,,,,,./3.png
+0,0,PAL,En cours,"47000",AGEN,OmbriÃ¨re,,",80 ha",,,,,,,,,,,,./1.png
+0,0,STR,AbandonnÃ©,"33230",Chamadelle,Hangar,,",35 ha",Aa,,,250 m,Ecurie Andy Booth,"projet brahim, a reprendre",05 57 69 17 11,infos@andybooth.fr,,,,./0.png
+0,0,,,,,,,,A,,,,,,,,,,,./3.png
+0,0,,,,,,,,(Ecuries),,,,,,,,,,,./3.png
+0,0,,En cours,"33420",GÃ©nissac,Hangar,,",30 ha",A,,,200 m,Entreprise Michel Nicolas - Valorisation de palettes en bois,offre dÃ©jÃ  envoyÃ©e en octobre dernier,05 57 84 41 03,,,,,./1.png
+0,0,,En cours,"33500",Lalande-de-Pomerol,Hangars,,",30 ha",RNU,,,500 m,Etablissements GUENON,relancer,05.57.55.08.91,,,,,./1.png
+0,0,VCA,En cours,"33450",Saint LoubÃ¨s - Maubrac emballage,toiture,,",30 ha",,,,,,voir grande toiture,,,,,,./1.png
+0,0,PAL,AbandonnÃ©,"47510",Foulayronnes,Hangar Centre equestre,,",20 ha",A,,,,24/01 : message vocal laissÃ©,02/02 Ã©change tÃ©l avec Mr Hersant. Lui et sa fille ont fait Ã©valuÃ© les coÃ»ts amÃ©nagement/VRD Ã  40KE pour le bÃ¢timent et le manÃ¨ge,Alain HERSANT : 06 79 13 69 06,,,,,./0.png
+0,0,,,,,,,,,,,,(historique: Envoi d'une description du projet en nov 2021),,AurÃ©lie HERSANT : 07 86 42 67 19,,,,,./3.png
+0,0,VCA,En cours,"33450",Saint LoubÃ¨s - Cordon Electrics,ombriere parking,,",20 ha",,,,,parking d'entreprise Ã  couvrir,contacter CE,,,,,,./1.png
+0,0,PAL,En cours,"33380",MIOS,BÃ¢timent,,",18 ha",,,,,,,,,,,,./1.png
+0,0,,En cours,"33450",Izon,Hangar,,",15 ha",???,,,,Euralis Vigne,Contacter,05 57 55 32 50,,,,,./1.png
+0,0,,En cours,"33660",Camps-sur-l'Isle,Hangars,,",00 ha",UY,,,100 m,Projet en cours avec la commune + Projet privÃ© avec le maire,,,,,,,./1.png
+0,0,,En cours,"33230",Les Ã‰glisottes-et-Chalaures,Sol ou Hangar (Ecurie),,",00 ha",A,,,,Elevage de Chalaure. Proposition de hangar ou manÃ¨ge equestre,,06 88 07 13 97,,,,,./1.png
+0,0,PAL,AbandonnÃ©,"47480",Pont-du-Casse,Hangar Centre equestre,,",00 ha",UL,,,,25/01 : Ã©change tÃ©l avec assistante Mme Dulis sur point avancement modif constructibiltÃ© secteur en PPRN,"05/04 : Ã©change tÃ©l avec Responsable Services risques naturels DDT47, prÃ©sentation projet envoyÃ© pour analyse.",06 27 33 37 43,,,,,./0.png
+0,0,,,,,,,,,,,,24/01 : message vocal laissÃ©,28/01 Ã©change tÃ©lÃ©phonique avec Mr le Maire. PlutÃ´t favorable il s'est engagÃ© Ã  travailler sur le sujet avec Mme Delis,,,,,,./3.png
+0,0,,,,,,,,,,,,(historique:  une prÃ©sentation du projet a Ã©tÃ© remise au prÃ©sident du club Patrick RICHARD en nov 2021,,,,,,,./3.png
+0,0,VCA,AbandonnÃ©,"12002",aguessac,sol,,"6,50 ha",NPV,,,,appeler mairie,,,,,,,./0.png
+0,0,VCA,AbandonnÃ©,"12022",la bastide pradines,,,"7,00 ha",NPV,,,,dÃ©jÃ  un projet en phase finale,,,,,,,./0.png
+0,0,VCA,AbandonnÃ©,"12063",la cavalerie,,,"9,50 ha",npv2,,,"500",'',,,,,,,./0.png
+0,0,VCA,AbandonnÃ©,"12063",la cavalerie,,,"10,00 ha",npv,,,"200",mail envoyÃ© Ã  la mairie aprÃ¨s contact tÃ©lÃ©phonique,,,,,,,./0.png
+0,0,VCA,AbandonnÃ©,"12063",la cavalerie,,,"18,00 ha",npv,,,"500",,,,,,,,./0.png
+0,0,VCA,AbandonnÃ©,"12082",la couvertoirade,Pas dÃ©terminÃ©,,"8,00 ha",npv,,,,appel commune --> dÃ©jÃ  un pc deposÃ©,,,,,,,./0.png
+0,0,VCA,AbandonnÃ©,"12176",onet le chÃ¢teau,carriere,,"27,00 ha",Ncapv,,,,mail envoyÃ© au service urbanisme d'onet aprÃ¨s contact tÃ©lÃ©phonique,,,,,,,./0.png
+0,0,VCA,AbandonnÃ©,"12176",onet le chÃ¢teau,carriere,,"30,00 ha",NCAPV,,,,'',,,,,,,./0.png
+0,0,Pas d'affectation,AbandonnÃ©,"16000",LA COURONNE,Sol,,"14,70 ha",NS,,,,,,,,,,,./0.png
+0,0,Pas d'affectation,AbandonnÃ©,"16000",LA COURONNE,Sol,,"15,00 ha",NS,,,,,,,,,,,./0.png
+0,0,Pas d'affectation,En pause,"16000",LA COURONNE,Sol,,"17,60 ha",2AUp,,,,LAFARGEHOLCIM Ciment,,,,,,,./4.png
+0,0,Pas d'affectation,En pause,"16000",LA COURONNE,Sol,,"14,70 ha",NS,,,,LAFARGEHOLCIM Ciment,,,,,,,./4.png
+0,0,,AbandonnÃ©,"16300",Barbezieux-Saint-Hilaire,Parking,,"2,50 ha",UXP,,,,parking bord de nationale,dÃ©jÃ  des projets de la part de sci trans europe,,,,,,./0.png
+0,0,Pas d'affectation,En pause,"16300",Barbezieux-Saint-Hilaire,Sol ou Hangar de stockage,,"1,80 ha",UX,,,"500",Faire la demande des RP au SDIF,,,,,,,./4.png
+0,0,,AbandonnÃ©,"16360",Baignes-Sainte-Radegonde,Sol,,"2,50 ha",N,,,,,,,,,,,./0.png
+0,0,,AbandonnÃ©,"16360",CondÃ©on,FPV,,"5,00 ha",RNU,,,"100",Demande de relevÃ© de propriÃ©tÃ©,,,,,,,./0.png
+0,0,,AbandonnÃ©,"16360",TouvÃ©rac,FPV,,"6,20 ha",RNU,,,"1000",,,,,,,,./0.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0,0,,En pause,"16360",TouvÃ©rac,Sol,,"4,30 ha",RNU,,,"500",Relancer la mairie aprÃ¨s l'envoie de l'offre com,,,,,,,./4.png
+0,0,,En pause,"16360",Bors,Sol + Flottant,,"4,20 ha",OD,,,"1000",Prendre contact avec le propriÃ©taire M TURMEL John / Adresse : Puyberneuil 16360 Bors-de-Baignes,,,,,,,./4.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0,0,,AbandonnÃ©,"16361",CondÃ©on,Sol,,"4,40 ha",RNU,,,"1000",Prendre contact avec les propriÃ©taires,,,,,,,./0.png
+0,0,,AbandonnÃ©,"16362",CondÃ©on,FPV,,"6,00 ha",RNU,,,"1000",,,,,,,,./0.png
+0,0,Pas d'affectation,En pause,"16400",LA COURONNE,Sol,,"17,80 ha",A,,,,proche habitations + dÃ©forestation,Mme chalex 72 Rte d'envaux LA COURONNE,,,,,,./4.png
+0,0,VCA,AbandonnÃ©,"16418",VOEUIL-ET-GIGET,,,"4,25 ha",N,,,,,,,,,,,./0.png
+0,0,,AbandonnÃ©,"16480",Saint-Vallier,Sol,,"4,80 ha",RNU,,,"500",,,,,,,,./0.png
+0,0,,AbandonnÃ©,"16480",Passirac,Sol,,"5,50 ha",,,,"500",,,,,,,,./0.png
+0,0,,En pause,"16480",Guizengeard,FPV,,"19,70 ha",RNU,,,"1000",,,,,,,,./4.png
+0,0,,En pause,"16480",Brossac,Sol,,"12,60 ha",,,,"700",,,,,,,,./4.png
+0,0,,En pause,"16480",Berneuil,Sol (Terrain abandonnÃ© ?),,"5,50 ha",RNU,,,"500","Couple propriÃ©taire dÃ©cedÃ©, Chercher Ã  contacter le notaire en charge de la succession",,,,,,,./4.png
+0,0,,En pause,"16481",Guizengeard,Sol (CarriÃ¨re),,"11,30 ha",RNU,,,"500",,,,,,,,./4.png
+0,0,,AbandonnÃ©,"16482",Guizengeard,Sol et plans d'eau (CarriÃ¨res),,"36,00 ha",RNU,,,"1000",,,,,,,,./0.png
+0,0,VCA,AbandonnÃ©,"17003",AIGREFEUILLE-D'AUNIS,,,"2,17 ha","{""U""}",,,,,,,,,,,./0.png
+0,0,,En pause,"17017",Archingeay,Hangar,,",60 ha",,,,,,,,,,,,./4.png
+0,0,,AbandonnÃ©,"17148",Ã‰curat,Hangar,,",14 ha",,,,,,,,,,,,./0.png
+0,0,,AbandonnÃ©,"17148",Ã‰curat,Sol,,",75 ha",,,,,,,,,,,,./0.png
+0,0,,En pause,"17154",Les Essards,Hangar,,"1,30 ha",,,,,,,,,,,,./4.png
+0,0,,AbandonnÃ©,"17172",GÃ©mozac,Sol,,"1,15 ha",,,,,,,,,,,,./0.png
+0,0,VCA,AbandonnÃ©,"17202",LANDES,,,"2,23 ha",N,,,sur place,pb : zone N = changement plu,,,,,,,./0.png
+0,0,,En pause,"17220",Saint-MÃ©dard-d'Aunis,Sol ou stockage ?,,"1,50 ha",,,,,,,,,,,,./4.png
+0,0,VCA,AbandonnÃ©,"17228",MEDIS,,,"3,45 ha",UX (activitÃ© Ã©conomique),,,,zone exploitable plutÃ´t petite (2ha),encore utilisÃ© en tant que dÃ©charge,,,,,,./0.png
+0,0,,En pause,"17290",Forges,Hangar,,"1,00 ha",,,,,,,,,,,,./4.png
+0,0,,En pause,"17299",Rochefort,Sol,,"1,10 ha",,,,,,,,,,,,./4.png
+0,0,VCA,AbandonnÃ©,"17303",LA RONDE,,,"2,20 ha","{""A""}",,,,trop petit et changement de plu nÃ©cessaire,,,,,,,./0.png
+0,0,,AbandonnÃ©,"17310",Saint-AndrÃ©-de-Lidon,FPV,,"1,90 ha",,,,,,,,,,,,./0.png
+0,0,,En pause,"17380",Les Nouillers,Sol,,"1,50 ha",,,,,,,,,,,,./4.png
+0,0,,AbandonnÃ©,"17415",Saintes,Parking,,",45 ha",,,,,,,,,,,,./0.png
+0,0,,En pause,"17600",Nieulle-sur-Seudre,Hangar,,",70 ha",,,,,,,,,,,,./4.png
+0,0,,AbandonnÃ©,"17800",Pons,Parking,,"2,20 ha",,,,,,,,,,,,./0.png
+0,0,,En pause,"17800",PÃ©rignac,Hangar,,"1,00 ha",,,,,,,,,,,,./4.png
+0,0,VCA,AbandonnÃ©,"23027",BOSMOREAU-LES-MINES,,,"5,35 ha",{ },,,"20","foret ayant bien repris ses droits, pas de plu",,,,,,,./0.png
+0,0,VCA,AbandonnÃ©,"23035",BUDELIERE,,,"1,64 ha","0",,,,,,,,,,,./0.png
+0,0,VCA,AbandonnÃ©,"23072",DOMEYROT,,,"14,89 ha","0",,,,,,,,,,,./0.png
+0,0,VCA,AbandonnÃ©,"23140",MOUTIER-ROZEILLE,,,"7,43 ha",,,,,"grosse foret, pas prioritaire pour l'instant car trop d'enjeux ecologiques",,,,,,,./0.png
+0,0,VCA,AbandonnÃ©,"23149",PARSAC,,,"25,58 ha",{ },,,,,,,,,,,./0.png
+0,0,VCA,AbandonnÃ©,"23157",LA POUGE,,,"3,91 ha",{ },,,,,,,,,,,./0.png
+0,0,VCA,AbandonnÃ©,"23179",SAINT-ALPINIEN,,,"1,67 ha",{ },,,,,,,,,,,./0.png
+0,0,VCA,A lancer,"23205",SAINT-JUNIEN-LA-BREGERE,,,"8,70 ha",,,,"450",,,,,,,,./2.png
+0,0,VCA,AbandonnÃ©,"23220",SAINT-MEDARD-LA-ROCHETTE,,,"4,66 ha","0",,,sur place,belles carrieres qui appartient Ã  la commune,,,,,,,./0.png
+0,0,VCA,AbandonnÃ©,"23259",VERNEIGES,,,"10,95 ha",,,,"150",terrain pas adaptÃ© au PV au sol,,,,,,,./0.png
+0,0,Pas d'affectation,AbandonnÃ©,"24000",COULOUNIEIX CHAMIERS,Sol,,"5,86 ha",Npv,,,,,,,,,,,./0.png
+0,0,Pas d'affectation,AbandonnÃ©,"24000",BASSILLAC ET AUBEROCHE,Sol,,"12,00 ha",Npv,,,,,,,,,,,./0.png
+0,0,Pas d'affectation,AbandonnÃ©,"24000",SAINT PIERRE DE COLE,Sol,,"19,00 ha",Zca,,,,,,,,,,,./0.png
+0,0,Pas d'affectation,AbandonnÃ©,"24000",LA CHAPELLE GONAGUET,Sol,,"29,87 ha",Npv,,,,,,,,,,,./0.png
+0,0,Pas d'affectation,AbandonnÃ©,"24000",BASSILLAC ET AUBEROCHE,Sol,,"49,50 ha",Npv,,,,,,,,,,,./0.png
+0,0,Pas d'affectation,En pause,"24000",BADEFOLS D'ANS,Sol,,"4,50 ha",ZnC,,,,,,,,,,,./4.png
+0,0,VCA,AbandonnÃ©,"24037",BERGERAC,,,"3,28 ha",UBc,,,,,,,,,,,./0.png
+0,0,,AbandonnÃ©,"24400",Saint-Michel-de-Double,FPV,,"1,35 ha",ZnC,,,,Abandon : plans d'eau petits et trop de contraintes,,,,,,,./0.png
+0,0,,AbandonnÃ©,"24700",Saint-BarthÃ©lemy-de-Bellegarde,,,",00 ha",Pas touvÃ©,,,,,,,,,,,./0.png
+0,0,VCA,AbandonnÃ©,"33000",Avensan,carriere 33,,"6,00 ha",,,,,bassin loisirs,,,,,,,./0.png
+0,0,VCA,AbandonnÃ©,"33000",Baurech,carriere,,"22,30 ha",,,,,zone de loisirs,,,,,,,./0.png
+0,0,,AbandonnÃ©,"33000",La BrÃ¨de,carriere,,"184,00 ha",,,,,,,,,,,,./0.png
+0,0,Pas d'affectation,En pause,"33000",BLANQUEFORT,Hangar,,",15 ha",,,,,,,,,,,,./4.png
+0,0,,AbandonnÃ©,"33001",Abzac,FPV,,",00 ha",N,,,,,,,,,,,./0.png
+0,0,,AbandonnÃ©,"33001",Abzac,FPV,,",00 ha",N,,,,,,,,,,,./0.png
+0,0,,AbandonnÃ©,"33001",Abzac,FPV,,"27,00 ha",N,,,,,,,,,,,./0.png
+0,0,,AbandonnÃ©,"33003",AmbarÃ¨s-et-Lagrave,fpv,,"6,50 ha",Nb,,,,,,,,,,,./0.png
+0,0,VCA,AbandonnÃ©,"33020",Auriolles,Sol,,"13,50 ha",,,,,mairie 05 56 61 33 58,,,,,,,./0.png
+0,0,VCA,AbandonnÃ©,"33029",Le Barp,FPV,,"23,50 ha",Nc,,,,dÃ©jÃ  pris pour projet,,,,,,,./0.png
+0,0,VCA,AbandonnÃ©,"33029",Le Barp,FPV,,"21,00 ha",Nc,,,,dÃ©jÃ  pris pour projet,,,,,,,./0.png
+0,0,VCA,AbandonnÃ©,"33114",Le Barp,Sol,,"8,00 ha",1AUg,,,,Demande des RP,,,,,,,./0.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0,0,VCA,AbandonnÃ©,"33114",Le Barp,Sol,,"15,00 ha",2AU,,,,Envoi de la prÃ©sentation projet,,,,,,,./0.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0,0,,AbandonnÃ©,"33125",Saint-Magne,Sol,,"9,00 ha",Ner,,,,VÃ©rifier s'il n'y a pas de projet en cours (Mairie),,,,,,,./0.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0,0,,AbandonnÃ©,"33125",Saint-Magne,Sol,,"15,00 ha",UeR,,,,"3 zones voisine au parc solaire dÃ©jÃ  existant, Ã  vÃ©rifier la disponibilitÃ© de ces zones",,,,,,,./0.png
+0,0,,,,,,,,,,,,Analyser l'Ã©tude d'impact de ce projet,,,,,,,./3.png
+0,0,VCA,En pause,"33125",Saint-Magne,FPV,,"5,00 ha",Ner,,,,carriere en activitÃ©,"Echanger avec Vincent RAYNAUD, responsable PV LAFARGE (toute la France)",06.69.00.22.33,vincent.raynaud@lafarge.com,,,,./4.png
+0,0,,,,,,,,,,,,,VINCENT RAYNAUD,,,,,,./3.png
+0,0,,AbandonnÃ©,"33127",Martignas-sur-Jalle,Sol,,"5,00 ha",,,,,,,,,,,,./0.png
+0,0,Pas d'affectation,A lancer,"33230",Lagorce,FPV,,"3,20 ha",A,,,,"SMELT Lagorce, terrain de monsieur Doublet, exploitÃ© par eurovia","projet brahim, a reprendre",05 57 49 32 29,,,,,./2.png
+0,0,,AbandonnÃ©,"33230",Chamadelle,Sol,,"11,00 ha",Npv,,,,rdv fait avec le proprio le 18/11,reprendre contact avec le propriÃ©taire M. DÃ©an,06 60 34 05 76,,,,,./0.png
+0,0,VCA,AbandonnÃ©,"33230",Saint-MÃ©dard-de-GuiziÃ¨res,Sol,,"7,00 ha",AUi,,,,zone RPG Ã  cotÃ© d'habitations,,,,,,,./0.png
+0,0,Pas d'affectation,AbandonnÃ©,"33230",Coutras,FPV,,"3,00 ha",NL,,,,"PropriÃ©tÃ© de la commune, proposer le projet Ã  la commune",,,,,,,./0.png
+0,0,VCA,AbandonnÃ©,"33230",Les Ã‰glisottes-et-Chalaures,FPV,,"6,00 ha",A,,,,"Proprio: ORANO Mining, demander Ã©tat d'avancement de l'exploitation de carriere",contacter orano,,,Oui,,,./0.png
+0,0,,AbandonnÃ©,"33230",Abzac,Sol,,"7,00 ha",1AUa,,,,Abandon : projet amÃ©nagement par le commune en cours,,,,,,,./0.png
+0,0,,,,,,,,1AUb,,,,,,,,,,,./3.png
+0,0,,AbandonnÃ©,"33230",Les Peintures,FPV,,"8,00 ha",???,,,,"Echanger avec Vincent RAYNAUX, responsable PV LAFARGE (toute la France) 06.69.00.22.33",,,,,,,./0.png
+0,0,,AbandonnÃ©,"33230",Abzac,FPV,,"20,00 ha",N,,,,Abandon : JPEE a un projet sur cette zone,,,,,,,./0.png
+0,0,,En pause,"33230",Les Ã‰glisottes-et-Chalaures,Sol (Terrain abondonnÃ©),,"3,80 ha",A,,,,,,,,,,,./4.png
+0,0,,A lancer,"33230",Coutras,carriere,,"25,00 ha",,,,,,,,,,,,./2.png
+0,0,,A lancer,"33240",Saint-Laurent-d'Arce,carriere,,"12,20 ha",,,,,,,,,,,,./2.png
+0,0,,A lancer,"33290",Blanquefort,carriere,,"12,30 ha",,,,,,,,,,,,./2.png
+0,0,VCA,AbandonnÃ©,"33315",Les Peintures,FPV + sol,,"7,00 ha",N,,,sur place,contacter mairie (05 57 49 09 07) + orano,,,,,,,./0.png
+0,0,VCA,AbandonnÃ©,"33315",Les Peintures,FPV + sol,,"35,00 ha",N,,,sur place,contacter mairie (05 57 49 09 07) + orano,,,,,,,./0.png
+0,0,VCA,AbandonnÃ©,"33332",PorchÃ¨res,sol,,",80 ha",RNU,,,,terrain abandonnÃ© apparaissant comme un lieu de dÃ©pÃ´t sauvage,maire connait le propriÃ©taire de cette parcelle et entretient de mauvais rapport avec lui donc pas de projet,,,,,,./0.png
+0,0,VCA,AbandonnÃ©,"33332",PorchÃ¨res,ombrieres + toiture,,",10 ha",RNU,,,,maire rencontrÃ© au selaq pour couverture toit salle des fetes,maire rencontrÃ© le 25/04 : ne veut pas de projet au sol sur le champ dÃ©gradÃ© car mauvaises relations avec les propriÃ©taires,,,,,,./0.png
+0,0,Pas d'affectation,A lancer,"33340",BEGADAN,FPV,,"12,70 ha",,,,,,,,,,,,./2.png
+0,0,,AbandonnÃ©,"33380",Mios,Sol,,"15,00 ha",AUY2,,,,zone en cours de viabilisation,,,,,,,./0.png
+0,0,,AbandonnÃ©,"33380",Marcheprime,Sol,,"7,00 ha",Ulp,,,,Discuter avec la mairie pour savoir s'il y a dÃ©jÃ  un projet en cours,,,,,,,./0.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0,0,,AbandonnÃ©,"33380",Mios,FPV,,"14,00 ha",NC,,,,Site de Sibelco,,,,,,,./0.png
+0,0,,AbandonnÃ©,"33380",Marcheprime,Sol,,"17,00 ha",AUl,,,,Demande des RP,,,,,,,./0.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0,0,,A lancer,"33380",Mios,carriere,,"29,70 ha",,,,,,,,,,,,./2.png
+0,0,,A lancer,"33380",Marcheprime,carriere,,"19,20 ha",,,,,,,,,,,,./2.png
+0,0,,En pause,"33420",Tizac-de-Curton,Sol,,"11,00 ha",ZnC (Carte communale),,,,,,,,,,,./4.png
+0,0,,AbandonnÃ©,"33420",Espiet,Sol,,"3,00 ha",2AUX,,,,,,,,,,,./0.png
+0,0,,,,,,,,N,,,,,,,,,,,./3.png
+0,0,,AbandonnÃ©,"33420",GÃ©nissac,FPV,,"10,00 ha",A,,,,,,,,,,,./0.png
+0,0,VCA,AbandonnÃ©,"33450",Saint Loubes - Ancienne dÃ©charge,sol,,"5,00 ha",,,,,terrain pas favorable au pv,"parcelles appartenant Ã  la commune et au syndicat intercommunal de l'entre deux mers, contacter maire ecolo",,,,,,./0.png
+0,0,VCA,AbandonnÃ©,"33450",Saint LoubÃ¨s - TransGourmet,ombriere,,"0,8 ombriere + 0,5 dÃ©laissÃ©",,,,,"zone urbanisÃ©e, parcelles d'usine",proposer ombrieres parking + utilisation dÃ©laissÃ© sud ouest + pourquoi pas toiture,,arnaud.duteurtre@transgourmet.fr,Non,,,./0.png
+0,0,,A lancer,"33450",Izon,carriere,,"22,90 ha",,,,,,,,,,,,./2.png
+0,0,,A lancer,"33470",Le Teich,Sol,,"21,00 ha",2AUE,,,,,,,,,,,./2.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0,0,,En pause,"33480",Avensan,Sol,,"25,00 ha","AUY, AUEq et 2AU",,,,Discuter avec la CdC et leur proposer des projets PV sur toute ou une partie de cette zone,contacter mairie pour voir si projet et si rien faire une proposition de rencontre,,,,,,./4.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0,0,,En pause,"33480",Avensan,FPV,,"8,00 ha",NL : Loisir,,,,Discuter avec la mairie et leur proposer un projet sur une partie du plan d'eau (Le maire n'est pas trop favorable au projets PV),,,,,,,./4.png
+0,0,,,,,,,,,,,,Demander les relvÃ©s de propriÃ©tÃ©,,,,,,,./3.png
+0,0,Pas d'affectation,AbandonnÃ©,"33480",Avensan,Hangar,,"1,00 ha",Nce : lâ€™exploitation de centre Ã©questre est autorisÃ©e,,,,Proposer des ombriÃ¨res ou hangar au centre Ã©questre,ContactÃ© le 16/03,06 16 74 15 11,,,,,./0.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0,0,,AbandonnÃ©,"33480",Brach,Sol,,"2,00 ha",1AUb,,,,Pas prioritaire,,,,,,,./0.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0,0,,AbandonnÃ©,"33480",Moulis-en-MÃ©doc,Sol,,"2,30 ha",,,,,,,,,,,,./0.png
+0,0,,AbandonnÃ©,"33480",Listrac-MÃ©doc,Sol,,"3,00 ha",1AU,,,,"Fort enjeux paysager, Pas prioritaire",,,,,,,./0.png
+0,0,,,,,,,,,,,,Demander quand meme les RP,,,,,,,./3.png
+0,0,,AbandonnÃ©,"33480",Moulis-en-MÃ©doc,Sol,,"7,00 ha",RNU,,,,"Fort enjeux environmentaux, pas prioritaire",,,,,,,./0.png
+0,0,,A lancer,"33480",Moulis-en-MÃ©doc,Sol,,"10,00 ha",RNU,,,,Demander les RP,,,,,,,./2.png
+0,0,,,,,,,,,,,,Proposer un projet agrivoltaique au propriÃ©taire,,,,,,,./3.png
+0,0,,En pause,"33500",Arveyres,Sol,,"8,00 ha",2AUy,,,"100",,,,,,,,./4.png
+0,0,,En pause,"33500",Les Billaux,FPV,,"8,00 ha",Nc,,,"50",,,,,,,,./4.png
+0,0,,AbandonnÃ©,"33510",Andernos-les-Bains,Sol,,"65,50 ha",2AU,,,,"Abondon, zone 2AU abrogÃ©",,,,,,,./0.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0,0,,A lancer,"33610",CanÃ©jan,carriere,,"14,00 ha",,,,,,,,,,,,./2.png
+0,0,,En pause,"33620",Lapouyade,Sol,,"17,00 ha",Ny,,,sur site,Installation de stockage des dÃ©chets non dangereux de Lapouyade- Veolia Recyclage & Valorisation des DÃ©chets,,,,,,,./4.png
+0,0,,,,,,,,,,,,"33557560910",,,,,,,./3.png
+0,0,,AbandonnÃ©,"33620",Tizac-de-Lapouyade,Hangar (Centre equestre),,",00 ha",ZnC (Carte communale),,,,VÃ©ronnique REAL Club Ã‰questre,,,,,,,./0.png
+0,0,,,,,,,,,,,,05 57 47 46 82,,,,,,,./3.png
+0,0,,A lancer,"33640",Portets,carriere,,"18,30 ha",,,,,,,,,,,,./2.png
+0,0,,En pause,"33660",Saint-Seurin-sur-l'Isle,Sol,,"4,00 ha",A,,,"450","dÃ©laissÃ© autoroutier, pas de projet en cours (mairie dÃ©jÃ  appelÃ©e)",demandÃ© rdv avec la maire en novembre dernier,,,,,,./4.png
+0,0,,AbandonnÃ©,"33660",Puynormand,Hangar (Centre equestre),,",00 ha",???,,,,SociÃ©tÃ© Hippique Saint-Seurinoise SHSS,,,,,,,./0.png
+0,0,,,,,,,,,,,,06 86 77 08 81,,,,,,,./3.png
+0,0,,AbandonnÃ©,"33660",Camps-sur-l'Isle,Sol,,"4,00 ha",UY,,,,,,,,,,,./0.png
+0,0,,En pause,"33660",PorchÃ¨res,Sol (Terrain abandonnÃ©),,"1,20 ha",RNU,,,"200",,,,,,,,./4.png
+0,0,,En pause,"33680",Le Temple,Sol,,"9,00 ha",Npv,,,,Se renseigner auprÃ¨s de la mairie,,,,,,,./4.png
+0,0,,,,,,,,,,,,et demander les RP,,,,,,,./3.png
+0,0,,AbandonnÃ©,"33680",Le Porge,Sol,,"4,00 ha",1AUY,,,,Demander les RP,,,,,,,./0.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0,0,,AbandonnÃ©,"33680",Le Temple,Sol,,"8,00 ha",2AU,,,,"Zone boisÃ©e, pas prioritaire",,,,,,,./0.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0,0,,A lancer,"33680",Lacanau,Sol,,"7,40 ha",,,,,,,,,,,,./2.png
+0,0,,A lancer,"33720",Saint-Michel-de-Rieufret,carriere,,"14,00 ha",,,,,,,,,,,,./2.png
+0,0,,AbandonnÃ©,"33740",ArÃ¨s,Sol,,"2,60 ha",UYd,,,,,,,,,,,./0.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0,0,,AbandonnÃ©,"33740",ArÃ¨s,Sol,,"8,00 ha",UYc,,,,,,,,,,,./0.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0,0,,En pause,"33750",Cadarsac,FPV,,"12,00 ha",Ne,,,"500",,,,,,,,./4.png
+0,0,,En pause,"33750",Saint-Germain-du-Puch,Sol,,"6,50 ha",1AUYa,,,sur place,,,,,,,,./4.png
+0,0,,,,,,,,1AUY,,,,,,,,,,,./3.png
+0,0,,A lancer,"33750",Beychac-et-Caillau,Omb. Parking,,"1,00 ha",1AUm,,,,,,,,,,,./2.png
+0,0,,AbandonnÃ©,"33770",Salles,Sol,,"4,00 ha",UY,,,,"Discuter avec la mairie sur l'avenir de ce site, des projets d'habitation ??",,,,,,,./0.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0,0,,AbandonnÃ©,"33770",Salles,Sol,,"15,00 ha",2AU,,,,"Discuter avec la mairie et leur proposer un projet photovoltaique en adequation avec l'activitÃ© Ã©conomique prÃ©vue (Hangars, OmbriÃ¨resâ€¦)",,,,,,,./0.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0,0,,A lancer,"33810",AmbÃ¨s,Sol (Ancienne usine),,"6,00 ha",,,,,,,,,,,,./2.png
+0,0,VCA,A lancer,"33830",Belin-BÃ©liet,carriere,,"7,90 ha",,,,,,,,,,,,./2.png
+0,0,,AbandonnÃ©,"33830",Belin-BÃ©liet,Sol,,"15,00 ha",1AUy,,,,Demande des RP,,,,,,,./0.png
+0,0,,,,,,,,,,,,Analyse Ã©tude d'impact projet voisin,,,,,,,./3.png
+0,0,,A lancer,"33840",Captieux,Hangars,,"1,00 ha",,,,,,,,,,,,./2.png
+0,0,,En pause,"33910",St-Denis-de-Pile,Sol,,"18,00 ha",N,,,,,,,,,,,./4.png
+0,0,,En pause,"33910",St-Denis-de-Pile,Sol,,"17,00 ha",2AUX,,,,,,,,,,,./4.png
+0,0,STR,En pause,"33910",Sablons,FPV,,"5,00 ha",RNU,,,"500",la propriÃ©taire a dÃ©jÃ  Ã©tÃ© contactÃ© par deux autres entreprise mais n'a encore rien signÃ©  Elle veut prÃ©server l'eau pour les poissons et les berges pour le chevaux,relancer,,,,,,./4.png
+0,0,,En pause,"33910",Sablons,Sol,,"5,00 ha",RNU,,,"500",,,,,,,,./4.png
+0,0,,AbandonnÃ©,"33910",Saint-Martin-de-Laye,Hangar (Centre equestre),,",00 ha",ZnC (Carte communale),,,,Ecuries de Subileau,,,,,,,./0.png
+0,0,,,,,,,,,,,,"33650366267",,,,,,,./3.png
+0,0,,AbandonnÃ©,"33910",Saxe-Anhalt,OmbriÃ¨res,,"1,50 ha",AUX,,,,Le propriÃ©taire ne veut pas discuter sur ce projet,,,,,,,./0.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0,0,,AbandonnÃ©,"33910",St-Denis-de-Pile,FPV,,"5,80 ha",Nl,,,,,,,,,,,./0.png
+0,0,,A lancer,"33910",Sablons,"ombriere, boulodrome, plan d'eau",,",00 ha",,,,,,,,,,,,./2.png
+0,0,,A lancer,"33920",Saint-Christoly-de-Blaye,carriere,,"15,40 ha",,,,,,,,,,,,./2.png
+0,0,,En pause,"33990",Hourtin,Sol,,"3,00 ha",,,,,,,,,,,,./4.png
+0,0,Pas d'affectation,En pause,"40000",MONT DE MARSAN,Sol,,"4,40 ha",A ENR,,,,,contacter mairie,,,,,,./4.png
+0,0,Pas d'affectation,AbandonnÃ©,"40000",GOUTS,FPV,,"6,00 ha",Ncerf,,,,,,,,,,,./0.png
+0,0,Pas d'affectation,AbandonnÃ©,"40000",SAINT vincent de paul,Sol,,"7,74 ha",AU ENR,,,,,,,,,,,./0.png
+0,0,Pas d'affectation,AbandonnÃ©,"40000",CAMPET LAMOLERE,Sol,,"10,00 ha",AU ENR,,,,,,,,,,,./0.png
+0,0,Pas d'affectation,AbandonnÃ©,"40000",CARCARES ST CROIX,Sol,,"10,00 ha",U SER,,,,,,,,,,,./0.png
+0,0,Pas d'affectation,AbandonnÃ©,"40000",SAINT AVIT,Sol,,"17,05 ha",AU ENR,,,,,,,,,,,./0.png
+0,0,Pas d'affectation,AbandonnÃ©,"40000",UCHACQ ET PARENTIS,Sol,,"17,93 ha",AU ENR,,,,,,,,,,,./0.png
+0,0,Pas d'affectation,AbandonnÃ©,"40000",PONTONX SUR ADOUR,Sol,,"56,00 ha",Ncerf,,,,,,,,,,,./0.png
+0,0,Pas d'affectation,AbandonnÃ©,"40000",RION DES LANDES,Sol,,"75,00 ha",Ncerf,,,,,,,,,,,./0.png
+0,0,Pas d'affectation,AbandonnÃ©,"40000",CERE,Sol,,"125,00 ha",Auer,,,,,,,,,,,./0.png
+0,0,VCA,AbandonnÃ©,"40100",LE FRECHE,,,"4,26 ha",{ },,,,"PAC partout autour, peu accessible et foret Ã  dÃ©fricher",,,,,,,./0.png
+0,0,VCA,En pause,"40102",GABARRET,,,"11,58 ha",AU,,,sur place,grosse surface mais surement dÃ©jÃ  un projet,,,,,,,./4.png
+0,0,Pas d'affectation,AbandonnÃ©,"40270",Benquet,AgriPV,,"17,00 ha",A ENR,,,,,,,,,,,./0.png
+0,0,,A lancer,"47023",Beaugas,Sol,,"10,00 ha",,,,,,,,,,,,./2.png
+0,0,,A lancer,"47036",Bourlens,Sol,,"20,00 ha",,,,,,,,,,,,./2.png
+0,0,,A lancer,"47072",Courbiac,Sol,,"25,00 ha",pas trouvÃ©,,,,,,,,,,,./2.png
+0,0,VCA,AbandonnÃ©,"47085",DURANCE,,,"81,06 ha",{ },,,,dÃ©jÃ  projet,,,,,,,./0.png
+0,0,,A lancer,"47093",Fargues-sur-Ourbise,Sol,,"28,00 ha",,,,,,,,,,,,./2.png
+0,0,,A lancer,"47096",Ferrensac,Sol,,"24,00 ha",,,,,,,,,,,,./2.png
+0,0,,En pause,"47110",Sainte-Livrade-sur-Lot,Sol (MosquÃ©e),,"6,40 ha",2AU,,,"500",historique: envoi propale projet le 30/08,26/01 : relance auprÃ¨s du secrÃ©tariat du Maire + envoi courriel demande de rdv (avec rappel contexte projet),05 53 49 69 10,,,,,./4.png
+0,0,,,,,,,,,,,,relance le 03/11 aux services techniques,,05 53 49 69 14,,,,,./3.png
+0,0,,AbandonnÃ©,"47110",Sainte-Livrade-sur-Lot,Sol (LycÃ©e),,"17,67 ha",UE,,,,Identifier 1 ou 2 contacts directs,,,,,,,./0.png
+0,0,,,,,,,,,,,,Propooser projet innovation,,,,,,,./3.png
+0,0,PAL,En pause,"47110",Sainte-Livrade-sur-Lot,FPV,,"4,70 ha",Ng,,,"500",Abandon: carriÃ¨re en cours d'exploitation par GAÃA,Prendre contact avec l'entreprise (CMGO ex-GAÃA) pour renseignements,,,,,,./4.png
+0,0,,,,,,,,,,,,,Identifier arrÃªtÃ© exploitation,,,,,,./3.png
+0,0,,A lancer,"47110",Le Temple-sur-Lot,Sol,,"7,80 ha",AUX0,,,500 m,Demander les Rp Ã  la mairie,,,,,,,./2.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0,0,PAL,En pause,"47130",Bruch,FPV,,"12,00 ha",NL,,,,,31/01 rÃ©ponse mail de Mme Ducler qui nous informe Ãªtre dÃ©jÃ  engagÃ©e avec un concurent (promesse signÃ©e en N-2). Elle garde notre contact,05 62 66 63 70,scf-augustins@orange.fr,,,,./4.png
+0,0,PAL,En pause,"47140",Saint-Sylvestre-sur-Lot,Sol,,"11,00 ha",1AUX,,,"6.2",lotissement en projet  sur une partie,,,,,,,./4.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0,0,,AbandonnÃ©,"47140",Penne-d'Agenais,Sol,,"1,20 ha",1AUa et 2AU,,,,Demander les RP pour les deux zone 2AU et 1AUa,,,,,,,./0.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0,0,,AbandonnÃ©,"47140",Frespech,Sol,,"6,00 ha",Ux,,,,Relancer la demande des RP au SDIF,,,,,,,./0.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0,0,PAL,AbandonnÃ©,"47140",Saint-Sylvestre-sur-Lot,Sol,,"5,00 ha",UX,,,,Envoi d'un mail au directeur de Conserves France,,,,,,,./0.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0,0,,AbandonnÃ©,"47160",Saint LÃ©on (Lagarneau),,"1",",50 ha",2AU,,,,,,,,,,,./0.png
+0,0,PAL,A lancer,"47182",Montastruc,Sol,,"25,00 ha",,,,,,,,,,,,./2.png
+0,0,,A lancer,"47211",Poudenas,Sol,,"9,00 ha",pas trouvÃ©,,,,,contacter mairie,05 53 65 71 59,,,,,./2.png
+0,0,,AbandonnÃ©,"47220",Caudecoste,Sol,,"7,00 ha",Axe,,,,Abandon : Projet en cours par OXYNERGIE,,,,,,,./0.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0,0,VCA,AbandonnÃ©,"47230",SAINT-AUBIN,,,"3,02 ha",,,,250 m,"ancienne carriere, znieff qui borde le site",mail envoyÃ© --> Site Valorizon en partenariat avec AVERGIES,,,,,,./0.png
+0,0,PAL,A lancer,"47235",Saint-Colomb-de-Lauzun,Sol,,"21,00 ha",,,,,,,,,,,,./2.png
+0,0,PAL,AbandonnÃ©,"47240",Castelculier,Sol,,"7,00 ha",2AU,,,,parcelles situÃ©es en plein pÃ©rimÃ¨tre d'OAP sectoriel du PLUi,,,,,,,./0.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0,0,,AbandonnÃ©,"47240",Bon-Encontre,FPV,,"3,40 ha",NL,,,,RelevÃ©s de propriÃ©tÃ© Ã  rÃ©cupÃ©rer ASAP pour identif,,,,,,,./0.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0,0,,En pause,"47260",Fongrave,Sol,,"3,76 ha",UXb,,,"9.5",Contacter D'AUCY en Octobre,,,,,,,./4.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0,0,PAL,AbandonnÃ©,"47279",Saint-Sixte CarriÃ¨re,FPV,,"5,00 ha",,,,,incompatible avec l'arretÃ© de remise en Ã©tat,29/01 1er contact avec la secrÃ©taire de direction afin de solliciter un rdv avec Mr Perry (PdG),,,,,,./0.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0,0,,A lancer,"47299",SÃ©rignac-PÃ©boudou,sol,,"21,00 ha",,,,,,,,,,,,./2.png
+0,0,PAL,En pause,"47300",Pujols,Sol,,"6,80 ha",Axa,,,,Abandon: site en cours d'exploitation et zone trop excavÃ©e,IDENTIFIER LE TERME DE L'EXPLOITATION/ appronfondir le sujet /voir sur site,,,,,,./4.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0,0,PAL,En pause,"47310",Estillac,Sol,,"10,00 ha",1AUXa,,,,a APPRONFONDIR,,,,,,,./4.png
+0,0,,,,,,,,2AUX,,,,,,,,,,,./3.png
+0,0,PAL,AbandonnÃ©,"47310",Brax,Sol,,"10,00 ha",1AUB,,,,"Abandon, le PLUI est trÃ¨s recent",,,,,,,./0.png
+0,0,,,,,,,,2AU,,,,,,,,,,,./3.png
+0,0,PAL,AbandonnÃ©,"47310",Roquefort,Sol,,"8,00 ha",1AUL,,,,,,,,,,,./0.png
+0,0,,,,,,,,2AUL,,,,,,,,,,,./3.png
+0,0,,AbandonnÃ©,"47310",Brax,FPV,,"5,00 ha",NL,,,,Demande des RP,,,,,,,./0.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0,0,PAL,AbandonnÃ©,"47310",Brax,Sol,,"5,00 ha",1AUB,,,,"Abandon, le PLUI est trÃ¨s recent",,,,,,,./0.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0,0,PAL,AbandonnÃ©,"47310",Roquefort,Sol,,"5,00 ha",2AU,,,,,,,,,,,./0.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0,0,PAL,En pause,"47310",Sainte-Colombe-en-Bruilhois,Sol,,"4,40 ha",N,,,,"Contact pris avec Michel et Bernard CASONATO + Mr Andrieu. Une sociÃ©tÃ© a Ã©tudiÃ© un projet PV en 2018/2019 mais il y a eu un dÃ©saccord entre les nombreux propriÃ©taires. A ce jour, ces 2 principaux propriÃ©taires prÃ©fÃ¨rent attendre avant de rÃ©Ã©tu",stand by  (graine semÃ©. en attente d'un mouvement cÃ´tÃ© Casonato qui est l'exploitant du site),"05 53 67 20 39 ; 05 53 67 84",,,,,./4.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0,0,PAL,En pause,"47310",Moirax,Sol,,"3,80 ha",UG,,,,,,,,,,,./4.png
+0,0,,,,,,,,1AUB,,,,,,,,,,,./3.png
+0,0,,,,,,,,2AU,,,,,,,,,,,./3.png
+0,0,,AbandonnÃ©,"47317",Verteuil-d'Agenais,Sol,,"22,00 ha",pas trouvÃ©,,,,,,,,,,,./0.png
+0,0,,AbandonnÃ©,"47340",Saint-Antoine-de-Ficalba,Sol,,"7,00 ha",1AUX et 2AUX,,,,Relancer pour demander les RP,,,,,,,./0.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0,0,PAL,AbandonnÃ©,"47390",Layrac,FPV,,"7,00 ha",N,,,,Mr GuÃ©ry contactÃ© via l'accueil le 24/01. PrÃ©sent sur site il na pas souhaitÃ© rÃ©pondre directement mais a indiquÃ© qu'il abandonnÃ© le projet via sa secrÃ©taire,,,,,,,./0.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0,0,PAL,En pause,"47390",Layrac,FPV,,"5,00 ha",A,,,,"27/01 : propriÃ©taire identifiÃ©, SCI FonciÃ¨re des Augustins",31/01 rÃ©ponse mail de Mme Ducler qui nous informe Ãªtre dÃ©jÃ  engagÃ©e avec un concurent (promesse signÃ©e en N-2). Elle garde notre contact,05 62 66 63 70,,,,,./4.png
+0,0,,,,,,,,,,,,"26/01 demande de relevÃ© propriÃ©tÃ© envoyÃ©, en attente identif",,,,,,,./3.png
+0,0,PAL,En pause,"47390",Layrac,FPV,,"5,00 ha",N,,,,Ã  traiter Ã  postÃ©riori,,,,,,,./4.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0,0,PAL,AbandonnÃ©,"47390",Le Passage,Sol,,"3,00 ha",2AUX,,,,,,,,,,,./0.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0,0,PAL,AbandonnÃ©,"47390",Layrac,FPV,,",00 ha",,,,,PDB Reden solar caduc en 2022,,,,,,,./0.png
+0,0,,,,,,,,,,,,Voir pour une relance selon clauses confidentialitÃ© Ã  checker,,,,,,,./3.png
+0,0,PAL,AbandonnÃ©,"47400",Tonneins,Sol,,"12,00 ha",Uea,,,,Identifier 1 ou 2 contact au sein du conseil rÃ©gional,,,,,,,./0.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0,0,PAL,AbandonnÃ©,"47440",Casseneuil,Sol,,"8,00 ha",1AUX et 2AUX,,,,Prendre contact avec la CAGV pour renseignements et proposer le projet Prendre contact avec l'autre propriaÃ©taire (M SEYNE-BUCHER GERARD ROLAND TÃ©l : 05 53 41 04 67),,,,,,,./0.png
+0,0,PAL,AbandonnÃ©,"47450",Colayrac-St-Cirq,Sol,,"14,00 ha",1AUC,,,,,,,,,,,./0.png
+0,0,,,,,,,,2AU,,,,,,,,,,,./3.png
+0,0,PAL,AbandonnÃ©,"47450",Colayrac-St-Cirq,FPV,,"7,00 ha",N,,,,Abandon : Projet en cours par SEM Â« Avergies Â» dont le maire est PDG,,,,,,,./0.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0,0,PAL,AbandonnÃ©,"47480",Bajamont,FPV,,"10,00 ha",NL,,,,Demande des RP,,,,,,,./0.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0,0,,AbandonnÃ©,"47480",Pont-du-Casse,Sol,,"3,00 ha",1AUB,,,,,,,,,,,./0.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0,0,PAL,AbandonnÃ©,"47510",Foulayronnes,FPV,,"5,00 ha",N,,,,vocation pÃªche loisirs et trÃ¨s frÃ©quentÃ©,,,,,,,./0.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0,0,PAL,AbandonnÃ©,"47510",Foulayronnes,Sol,,"3,70 ha",2AU,,,,,,,,,,,./0.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0,0,PAL,AbandonnÃ©,"47550",BoÃ©,Sol,,"4,00 ha",A,,,,Demande du RP,reden solar sur le projet,,,,,,./0.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0,0,PAL,En pause,"47550",BoÃ©,Sol,,"3,50 ha",2AUG,,,,SOCCAST IMMOBILIER_ Mr LENORMAND Jean-Marc Auguste Marie- Lieudit PÃ©mÃ©gnan 40000 Mont-de-Marsan,,,,,,,./4.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0,0,PAL,AbandonnÃ©,"47550",BoÃ©,FPV,,"1,00 ha",NL,,,,Abandon car zone loisirs trÃ¨s frÃ©quentÃ©_ volontÃ© politique de prÃ©server la vocation du plan d'eau (aviron),,,,,,,./0.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
+0,0,VCA,AbandonnÃ©,"64300",LACQ,,,"1,84 ha",UYt,,,,appartient Ã  total,,,,,,,./0.png
+0,0,VCA,AbandonnÃ©,"64300",LACQ,,,"2,46 ha",AD,,,,,,,,,,,./0.png
+0,0,VCA,AbandonnÃ©,"64300",LACQ,,,"2,50 ha",ADt,,,,,,,,,,,./0.png
+0,0,VCA,AbandonnÃ©,"64300",LACQ,,,"3,23 ha",AD,,,,,,,,,,,./0.png
+0,0,VCA,AbandonnÃ©,"64300",LACQ,,,"6,45 ha",UYt,,,,,,,,,,,./0.png
+0,0,PAL,A lancer,"64315",LAROIN,,,"3,80 ha",Nr,,,"250","voir si appartient toujours Ã  total, en plein sur une znieff type 2, PV encouragÃ© dans cette zone",,,,,,,./2.png
+0,0,VCA,A lancer,"64373",MAZERES-LEZONS,,,"4,00 ha",Nr,,,,"PV encouragÃ© en zone NR, propriÃ©tÃ© de total E&P",,,,,,,./2.png
+0,0,VCA,A lancer,"64508",SAUCEDE,,,"3,00 ha",,,,300 m,"partie en RPG, ancien forage petrolier",mail envoyÃ© pour plu,,,,,,./2.png
+0,0,VCA,A lancer,"79029",BEAULIEU-SOUS-PARTHENAY,,,"5,81 ha",,,,,"plutÃ´t propice, contacter mairie pour plu et propriÃ©taire",mail envoyÃ© plu et dispo,,,,,,./2.png
+0,0,VCA,A lancer,"79063",Val en vignes,,,"8,83 ha",N,,,,,,,,,,,./2.png
+0,0,VCA,A lancer,"79148",LEZAY,,,"8,02 ha",Ux,,,,"sur le site d'une entreprise, pas prio",,,,,,,./2.png
+0,0,VCA,AbandonnÃ©,"79189",NANTEUIL,,,"5,01 ha",A,,,,mort : cultivÃ© et trop d'enjeux,,,,,,,./0.png
+0,0,VCA,A lancer,"79329",THOUARS,,,"4,00 ha",UI,,,,"voir si projet car au milieu du tiper, voir avec mairie",contacter mairie,05.49.66.68.68,,,,,./2.png
+0,0,PAL,En pause,"81500",Marzen,Sol,,"10,00 ha",,,,,,,,,,,,./4.png
+0,0,PAL,AbandonnÃ©,"81500",Lavaur,Sol,,"7,00 ha",,,,,,,,,,,,./0.png
+0,0,,A lancer,"81500",Veilhes,Sol,,"40,00 ha",,,,,,,,,,,,./2.png
+0,0,PAL,AbandonnÃ©,"81500",Lavaur,Sol,,"5,00 ha",Np,,,,,,,,,,,./0.png
+0,0,,A lancer,"81500",Montcabrier,Sol,,"4,00 ha",,,,,,,,,,,,./2.png
+0,0,,A lancer,"81500",Pratviel,,,",00 ha",,,,,,,,,,,,./2.png
+0,0,VCA,AbandonnÃ©,"86062",CHASSENEUIL-DU-POITOU,,,"8,13 ha",UEnc,,,,beaucoup de projets sur la zone du futuroscope,,,,,,,./0.png
+0,0,VCA,En pause,"86111",INGRANDES,,,"6,00 ha",Uh,,,sur site,"les parcelles appartiennent Ã  la commune, la maire ne veut pas d'enr",relancÃ© pour comprendre les raisons du refus mais pas de reponse au 20/04,,,,,,./4.png
+0,0,VCA,En pause,"86194",POITIERS,,,"3,00 ha",UE,,,,toiture sur site SAFT (marche avec total en gÃ©nÃ©ral) + dÃ©jÃ  ombrieres sur le parking,,,,,,,./4.png
+0,0,VCA,AbandonnÃ©,"86194",POITIERS,,,"8,45 ha",UEnc,,,,dÃ©jÃ  des projets d'amenagement,,,,,,,./0.png
+0,0,,A lancer,"86210",Vouneuil-sur-Vienne,Site proche racc,,"17,00 ha",Npv et Nc,,,150 m,Nous n'avons pas pu discuter avec les propriÃ©taires,reprendre dossier,,,,,,./2.png
+0,0,,,,,,,,,,,,,,,,,,,./3.png
